@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**isac-rehn/isac-rehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on WordPress, Shopify, MERN Stack, LAMP Stack, Python, Flutter (mobile app development), and AI integrations into SaaS applications.<br>👯 I’m looking to collaborate on exciting SaaS projects, AI-powered applications, innovative web development, and mobile solutions.<br>🤝 I’m seeking help with mastering advanced AI/ML algorithms and integrating them into real-world applications.<br>🌱 I’m currently learning advanced data science, machine learning, and natural language processing (NLP) techniques.<br>💬 Ask me about full-stack development, WordPress customizations, Shopify apps, Flutter mobile apps, AI in SaaS, and scalable backend solutions.<br>⚡ Fun fact: I love solving complex coding challenges and can spend hours debugging—because I find it oddly satisfying!
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=isac-rehn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
